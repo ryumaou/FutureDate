@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add stardates to your wordpress weblog
+Add stardates and some other future dates to your wordpress weblog
 
 == Description ==
 
