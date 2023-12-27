@@ -1,5 +1,5 @@
 # FutureDate
-=== futuedate ===
+=== futuredate ===
 Contributors: doddo
 Tags: dates, stardate
 Requires at least: 4.0.1
