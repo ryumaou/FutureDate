@@ -34,7 +34,7 @@ The [stardate](https://wordpress.org/plugins/stardate/) plugin by croakingtoad i
 == Screenshots ==
 
 1. Default theme using stardate "Classic" format with the "override_get_date" setting.
-2. URL with `/blog/%futuedate%/%postname%/` in the permalink structure.
+2. URL with `/blog/%futuredate%/%postname%/` in the permalink structure.
 
 
 == Changelog ==
